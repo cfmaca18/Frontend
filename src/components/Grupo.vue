@@ -1,6 +1,6 @@
 <template> 
     <div class="p-3 text-center">
-      <h1>Inscritos</h1>
+      <h1>Lista del Grupo{{ id }}</h1>
       <div class="container">
         <table class="table table-hover">
           <thead>
